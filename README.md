@@ -30,13 +30,7 @@ through hands-on projects and consistent practice.
 
 **Tools:** Git, GitHub, VS Code
 
-## 📌 Featured Projects
 
-Projects will be added here as I complete and document them.
-
-- **Task Master** — Task management web application
-- **Student Management API** — Planned backend project
-- **EEE / IoT Project** — Hardware and software integration
 
 ## 🎯 My Goal
 
