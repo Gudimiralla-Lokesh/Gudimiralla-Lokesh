@@ -45,7 +45,7 @@ strengthening problem-solving skills, and learning industry practices.
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [My LinkedIn Profile]([(https://www.linkedin.com/in/gudimirallalokesh/)])
+- LinkedIn: [(https://www.linkedin.com/in/gudimirallalokesh/)]
 
 ---
 
